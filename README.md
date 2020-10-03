@@ -133,7 +133,9 @@
 - [포스팅 - 생성자 인자가 많을 땐? Builder!](https://woowacourse.github.io/javable/2020-08-17/builder_pattern)
 - [포스팅 - SOLID 1편 SRP와 OCP](https://woowacourse.github.io/javable/2020-07-31/solid-1)
 
-
+<br/>
+<br/>
+<br/>
 
 ## 우아한테크코스 들어오기 전 ⏳ Level 0 : 프리코스
 
@@ -150,7 +152,7 @@
 |      블랙잭      | [java-blackjack-precourse](https://github.com/KIMSIYOUNG/java-blackjack-precourse) | [Pull Request](https://github.com/woowacourse/java-blackjack-precourse/pull/39) |
 
 <br/>
-
+<br/>
 ## 우아한테크코스 최종 장벽 ⌛️ Level 0.5 : 오프라인 테스트
 
 ### 기간
