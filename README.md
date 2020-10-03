@@ -20,9 +20,9 @@
 
 |     Project      |                          Repository                          |                         Pull Request                         |
 | :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  숫자 야구 게임  | [java-baseball-precourse](https://github.com/lxxjn0/java-baseball-precourse) | [Pull Request](https://github.com/woowacourse/java-baseball-precourse/pull/209) |
-| 자동차 경주 게임 | [java-racingcar-precourse](https://github.com/lxxjn0/java-racingcar-precourse) | [Pull Request](https://github.com/woowacourse/java-racingcar-precourse/pull/185) |
-|      블랙잭      | [java-blackjack-precourse](https://github.com/lxxjn0/java-blackjack-precourse) | [Pull Request](https://github.com/woowacourse/java-blackjack-precourse/pull/38) |
+|  숫자 야구 게임  | [java-baseball-precourse](https://github.com/KIMSIYOUNG/java-baseball-precourse) | [Pull Request](https://github.com/woowacourse/java-baseball-precourse/pull/213) |
+| 자동차 경주 게임 | [java-racingcar-precourse](https://github.com/KIMSIYOUNG/java-racingcar-precourse) | [Pull Request](https://github.com/woowacourse/java-racingcar-precourse/pull/178) |
+|      블랙잭      | [java-blackjack-precourse](https://github.com/KIMSIYOUNG/java-blackjack-precourse) | [Pull Request](https://github.com/woowacourse/java-blackjack-precourse/pull/39) |
 
 <br/>
 
@@ -36,7 +36,7 @@
 
 | Project |                          Repository                          |                         Pull Request                         |
 | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 치킨집  | [java-chicken-2019](https://github.com/lxxjn0/java-chicken-2019) | [Pull Request](https://github.com/woowacourse/java-chicken-2019/pull/1) |
+| 치킨집  | [java-chicken-2019](https://github.com/KIMSIYOUNG/java-chicken-2019) | [Pull Request](https://github.com/woowacourse/java-chicken-2019/pull/40) |
 
 <br/>
 
@@ -57,15 +57,15 @@
 
 |     Project      |                          Repository                          |                         Pull Request                         |
 | :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  문자열 계산기   | [java-calculator](https://github.com/lxxjn0/java-calculator) | [Pull Request](https://github.com/woowacourse/java-calculator/pull/44) |
-| 자동차 경주 게임 |  [java-racingcar](https://github.com/lxxjn0/java-racingcar)  | [Pull Request](https://github.com/woowacourse/java-racingcar/pull/93) |
-|   로또 / step1   | [java-lotto/step1](https://github.com/lxxjn0/java-lotto/tree/step1) | [Pull Request](https://github.com/woowacourse/java-lotto/pull/161) |
-|   로또 / step2   | [java-lotto/step2](https://github.com/lxxjn0/java-lotto/tree/step2) | [Pull Request](https://github.com/woowacourse/java-lotto/pull/178) |
-|  블랙잭 / step1  | [java-blackjack/step1](https://github.com/lxxjn0/java-blackjack/tree/step1) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/26) |
-|  블랙잭 / step2  | [java-blackjack/step2](https://github.com/lxxjn0/java-blackjack/tree/step2) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/104) |
-|   체스 / step1   | [java-chess/step1](https://github.com/lxxjn0/java-chess/tree/step1) | [Pull Request](https://github.com/woowacourse/java-chess/pull/61) |
-|   체스 / step2   | [java-chess/step2](https://github.com/lxxjn0/java-chess/tree/step2) | [Pull Request](https://github.com/woowacourse/java-chess/pull/155) |
-|   90년생 HTML    |            [html](https://github.com/lxxjn0/html)            | [Pull Request](https://github.com/woowacourse/html/pull/50)  |
+|  문자열 계산기   | [java-calculator](https://github.com/KIMSIYOUNG/java-calculator) | [Pull Request](https://github.com/woowacourse/java-calculator/pull/51) |
+| 자동차 경주 게임 |  [java-racingcar](https://github.com/KIMSIYOUNG/java-racingcar)  | [Pull Request](https://github.com/woowacourse/java-racingcar/pull/70) |
+|   로또 / step1   | [java-lotto/step1](https://github.com/KIMSIYOUNG/java-lotto/tree/lotto) | [Pull Request](https://github.com/woowacourse/java-lotto/pull/127) |
+|   로또 / step2   | [java-lotto/step2](https://github.com/KIMSIYOUNG/java-lotto) | [Pull Request](https://github.com/woowacourse/java-lotto/pull/175) |
+|  블랙잭 / step1  | [java-blackjack/step1](https://github.com/KIMSIYOUNG/java-blackjack/tree/blackjack) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/7) |
+|  블랙잭 / step2  | [java-blackjack/step2](https://github.com/KIMSIYOUNG/java-blackjack/tree/feature/money) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/60) |
+|   체스 / step1   | [java-chess/step1](https://github.com/KIMSIYOUNG/java-chess/tree/chess_step_1) | [Pull Request](https://github.com/woowacourse/java-chess/pull/101) |
+|   체스 / step2   | [java-chess/step2](https://github.com/KIMSIYOUNG/java-chess/tree/chess_step_1) | [Pull Request](https://github.com/woowacourse/java-chess/pull/131) |
+|   90년생 HTML    |            [html](https://github.com/KIMSIYOUNG/html/tree/feature/index)            | [Pull Request](https://github.com/woowacourse/html/pull/3)  |
 
 <br/>
 
