@@ -1,42 +1,6 @@
 # 👨🏻‍💻 woowacourse-projects
 
-<p align="center">
-    <img src="./wooteco-cover.jpg" alt="우아한 테크코스 포스터" width="40%" />
-</p>
-
-
-
 >  [우아한테크코스](https://woowacourse.github.io/)에서 학습한 내용을 정리하는 Repository
-
-<br/>
-
-## ⏳ Level 0 : 프리코스
-
-### 기간
-
-- 2019.11.27 ~ 2019.12.17
-
-### 진행 미션
-
-|     Project      |                          Repository                          |                         Pull Request                         |
-| :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  숫자 야구 게임  | [java-baseball-precourse](https://github.com/KIMSIYOUNG/java-baseball-precourse) | [Pull Request](https://github.com/woowacourse/java-baseball-precourse/pull/213) |
-| 자동차 경주 게임 | [java-racingcar-precourse](https://github.com/KIMSIYOUNG/java-racingcar-precourse) | [Pull Request](https://github.com/woowacourse/java-racingcar-precourse/pull/178) |
-|      블랙잭      | [java-blackjack-precourse](https://github.com/KIMSIYOUNG/java-blackjack-precourse) | [Pull Request](https://github.com/woowacourse/java-blackjack-precourse/pull/39) |
-
-<br/>
-
-## ⌛️ Level 0.5 : 오프라인 테스트
-
-### 기간
-
-- 2019.12.24
-
-### 진행 미션
-
-| Project |                          Repository                          |                         Pull Request                         |
-| :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 치킨집  | [java-chicken-2019](https://github.com/KIMSIYOUNG/java-chicken-2019) | [Pull Request](https://github.com/woowacourse/java-chicken-2019/pull/40) |
 
 <br/>
 
@@ -55,16 +19,16 @@
 
 ### 진행 미션
 
-|     Project      |                          Repository                          |                         Pull Request                         |
-| :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  문자열 계산기   | [java-calculator](https://github.com/KIMSIYOUNG/java-calculator) | [Pull Request](https://github.com/woowacourse/java-calculator/pull/51) |
-| 자동차 경주 게임 |  [java-racingcar](https://github.com/KIMSIYOUNG/java-racingcar)  | [Pull Request](https://github.com/woowacourse/java-racingcar/pull/70) |
-|   로또 / step1   | [java-lotto/step1](https://github.com/KIMSIYOUNG/java-lotto/tree/lotto) | [Pull Request](https://github.com/woowacourse/java-lotto/pull/127) |
-|   로또 / step2   | [java-lotto/step2](https://github.com/KIMSIYOUNG/java-lotto) | [Pull Request](https://github.com/woowacourse/java-lotto/pull/175) |
-|  블랙잭 / step1  | [java-blackjack/step1](https://github.com/KIMSIYOUNG/java-blackjack/tree/blackjack) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/7) |
-|  블랙잭 / step2  | [java-blackjack/step2](https://github.com/KIMSIYOUNG/java-blackjack/tree/feature/money) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/60) |
-|   체스 / step1   | [java-chess/step1](https://github.com/KIMSIYOUNG/java-chess/tree/chess_step_1) | [Pull Request](https://github.com/woowacourse/java-chess/pull/101) |
-|   체스 / step2   | [java-chess/step2](https://github.com/KIMSIYOUNG/java-chess/tree/chess_step_1) | [Pull Request](https://github.com/woowacourse/java-chess/pull/131) |
+|     Project      |           Repository          |             Pull Request                   |              학습 내용 정리                    |
+| :--------------: | :---------------------------: | :----------------------------------------: |  :----------------------------------------: | 
+|  문자열 계산기   | [java-calculator](https://github.com/KIMSIYOUNG/java-calculator) | [Pull Request](https://github.com/woowacourse/java-calculator/pull/51) | [계산기 - 학습 내용](https://github.com/KIMSIYOUNG/java-calculator/blob/onboarding/README.md) |
+| 자동차 경주 게임 |  [java-racingcar](https://github.com/KIMSIYOUNG/java-racingcar)  | [Pull Request](https://github.com/woowacourse/java-racingcar/pull/70) | [자동차 - 학습 내용](https://github.com/KIMSIYOUNG/java-racingcar/blob/tdd/README.md) |
+|   로또 / step1   | [java-lotto/step1](https://github.com/KIMSIYOUNG/java-lotto/tree/lotto) | [Pull Request](https://github.com/woowacourse/java-lotto/pull/127) | [로또 1단계 - 학습 내용](https://github.com/KIMSIYOUNG/java-lotto/blob/lotto/README.md) |
+|   로또 / step2   | [java-lotto/step2](https://github.com/KIMSIYOUNG/java-lotto) | [Pull Request](https://github.com/woowacourse/java-lotto/pull/175) | [로또 2단계 - 학습 내용](https://github.com/KIMSIYOUNG/java-lotto/blob/final/README.md) |
+|  블랙잭 / step1  | [java-blackjack/step1](https://github.com/KIMSIYOUNG/java-blackjack/tree/blackjack) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/7) | [블랙잭 1단계 - 학습 내용](https://github.com/KIMSIYOUNG/java-blackjack/blob/blackjack/README.md) |
+|  블랙잭 / step2  | [java-blackjack/step2](https://github.com/KIMSIYOUNG/java-blackjack/tree/feature/money) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/60) | [블랙잭 2단계 - 학습 내용](https://github.com/KIMSIYOUNG/java-blackjack/blob/feature/money/README.md) |
+|   체스 / step1   | [java-chess/step1](https://github.com/KIMSIYOUNG/java-chess/tree/chess_step_1) | [Pull Request](https://github.com/woowacourse/java-chess/pull/101) | [체스 1단계 - 학습 내용](https://github.com/KIMSIYOUNG/java-chess/blob/chess_step_1/README.md) |
+|   체스 / step2   | [java-chess/step2](https://github.com/KIMSIYOUNG/java-chess/tree/chess_step_1) | [Pull Request](https://github.com/woowacourse/java-chess/pull/131) | [체스 2단계 - 학습 내용](https://github.com/KIMSIYOUNG/java-chess/blob/chess_step_1/README.md) |
 |   90년생 HTML    |            [html](https://github.com/KIMSIYOUNG/html/tree/feature/index)            | [Pull Request](https://github.com/woowacourse/html/pull/3)  |
 
 <br/>
@@ -84,18 +48,18 @@
 
 ### 진행 미션
 
-|       Project        |                          Repository                          |                         Pull Request                         |
-| :------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|     체스 / step1     | [jwp-chess/step1](https://github.com/KIMSIYOUNG/jwp-chess/tree/feature/jwp_chess) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/54) |
-|     체스 / step2     | [jwp-chess/step2](https://github.com/KIMSIYOUNG/jwp-chess/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/121) |
-|     체스 / step3     | [jwp-chess/step3](https://github.com/KIMSIYOUNG/jwp-chess/tree/chess_step3) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/122) |
-|     체스 / step4     | [jwp-chess/step4](https://github.com/KIMSIYOUNG/jwp-chess/tree/chess_step4) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/193) |
-|   지하철 정보 관리   | [atdd-subway-admin](https://github.com/KIMSIYOUNG/atdd-subway-admin/tree/step1) | [Pull Request](https://github.com/woowacourse/atdd-subway-admin/pull/22) |
-|   지하철 경로 조회   | [atdd-subway-path](https://github.com/KIMSIYOUNG/atdd-subway-path/tree/week2) | [Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/14) |
-| 지하철 경로 즐겨찾기 | [atdd-subway-favorite](https://github.com/KIMSIYOUNG/atdd-subway-favorite/tree/step1) | [Pull Request](https://github.com/woowacourse/atdd-subway-favorite/pull/8) |
-|  지하철 Admin CRUD   | [atdd-subway-admin-frontend](https://github.com/KIMSIYOUNG/atdd-subway-admin-frontend/tree/kyle) | [Pull Request](https://github.com/woowacourse/atdd-subway-admin-frontend/pull/25) |
-|    사용자 이야기     | [woowa-userstory-2020](https://github.com/KIMSIYOUNG/woowa-userstory-2020/tree/docs/kyle) | [Pull Request](https://github.com/woowacourse/woowa-userstory-2020/pull/5) |
-|      Todo List       |        [todolist](https://github.com/KIMSIYOUNG/todolist/tree/feat/state/kyle)        |                       [Pull Request](https://github.com/woowacourse/todolist/pull/8)                        |
+|     Project      |           Repository          |             Pull Request                   |              학습 내용 정리                    |
+| :--------------: | :---------------------------: | :----------------------------------------: |  :----------------------------------------: | 
+|     체스 / step1     | [jwp-chess/step1](https://github.com/KIMSIYOUNG/jwp-chess/tree/feature/jwp_chess) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/54) | [학습한 내용 및 어려웠던 점](https://github.com/KIMSIYOUNG/java-calculator/blob/onboarding/README.md) |
+|     체스 / step2     | [jwp-chess/step2](https://github.com/KIMSIYOUNG/jwp-chess/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/121) | [학습한 내용 및 어려웠던 점](https://github.com/KIMSIYOUNG/java-calculator/blob/onboarding/README.md) |
+|     체스 / step3     | [jwp-chess/step3](https://github.com/KIMSIYOUNG/jwp-chess/tree/chess_step3) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/122) | [학습한 내용 및 어려웠던 점](https://github.com/KIMSIYOUNG/java-calculator/blob/onboarding/README.md) |
+|     체스 / step4     | [jwp-chess/step4](https://github.com/KIMSIYOUNG/jwp-chess/tree/chess_step4) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/193) | [학습한 내용 및 어려웠던 점](https://github.com/KIMSIYOUNG/java-calculator/blob/onboarding/README.md) |
+|   지하철 정보 관리   | [atdd-subway-admin](https://github.com/KIMSIYOUNG/atdd-subway-admin/tree/step1) | [Pull Request](https://github.com/woowacourse/atdd-subway-admin/pull/22) | [학습한 내용 및 어려웠던 점](https://github.com/KIMSIYOUNG/java-calculator/blob/onboarding/README.md) |
+|   지하철 경로 조회   | [atdd-subway-path](https://github.com/KIMSIYOUNG/atdd-subway-path/tree/week2) | [Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/14) | [학습한 내용 및 어려웠던 점](https://github.com/KIMSIYOUNG/java-calculator/blob/onboarding/README.md) |
+| 지하철 경로 즐겨찾기 | [atdd-subway-favorite](https://github.com/KIMSIYOUNG/atdd-subway-favorite/tree/step1) | [Pull Request](https://github.com/woowacourse/atdd-subway-favorite/pull/8) | [학습한 내용 및 어려웠던 점](https://github.com/KIMSIYOUNG/java-calculator/blob/onboarding/README.md) |
+|  지하철 Admin CRUD   | [atdd-subway-admin-frontend](https://github.com/KIMSIYOUNG/atdd-subway-admin-frontend/tree/kyle) | [Pull Request](https://github.com/woowacourse/atdd-subway-admin-frontend/pull/25) | [학습한 내용 및 어려웠던 점](https://github.com/KIMSIYOUNG/java-calculator/blob/onboarding/README.md) |
+|    사용자 이야기     | [woowa-userstory-2020](https://github.com/KIMSIYOUNG/woowa-userstory-2020/tree/docs/kyle) | [Pull Request](https://github.com/woowacourse/woowa-userstory-2020/pull/5) | [학습한 내용 및 어려웠던 점](https://github.com/KIMSIYOUNG/java-calculator/blob/onboarding/README.md) |
+|      Todo List       |        [todolist](https://github.com/KIMSIYOUNG/todolist/tree/feat/state/kyle)        |                       [Pull Request](https://github.com/woowacourse/todolist/pull/8)                        | [학습한 내용 및 어려웠던 점](https://github.com/KIMSIYOUNG/java-calculator/blob/onboarding/README.md) |
 
 <br/>
 
@@ -168,3 +132,36 @@
 - [포스팅 - CORS란?](https://woowacourse.github.io/javable/2020-07-18/cors)
 - [포스팅 - 생성자 인자가 많을 땐? Builder!](https://woowacourse.github.io/javable/2020-08-17/builder_pattern)
 - [포스팅 - SOLID 1편 SRP와 OCP](https://woowacourse.github.io/javable/2020-07-31/solid-1)
+
+
+
+## 우아한테크코스 들어오기 전 ⏳ Level 0 : 프리코스
+
+### 기간
+
+- 2019.11.27 ~ 2019.12.17
+
+### 진행 미션
+
+|     Project      |                          Repository                          |                         Pull Request                         |
+| :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  숫자 야구 게임  | [java-baseball-precourse](https://github.com/KIMSIYOUNG/java-baseball-precourse) | [Pull Request](https://github.com/woowacourse/java-baseball-precourse/pull/213) |
+| 자동차 경주 게임 | [java-racingcar-precourse](https://github.com/KIMSIYOUNG/java-racingcar-precourse) | [Pull Request](https://github.com/woowacourse/java-racingcar-precourse/pull/178) |
+|      블랙잭      | [java-blackjack-precourse](https://github.com/KIMSIYOUNG/java-blackjack-precourse) | [Pull Request](https://github.com/woowacourse/java-blackjack-precourse/pull/39) |
+
+<br/>
+
+## 우아한테크코스 최종 장벽 ⌛️ Level 0.5 : 오프라인 테스트
+
+### 기간
+
+- 2019.12.24
+
+### 진행 미션
+
+| Project |                          Repository                          |                         Pull Request                         |
+| :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 치킨집  | [java-chicken-2019](https://github.com/KIMSIYOUNG/java-chicken-2019) | [Pull Request](https://github.com/woowacourse/java-chicken-2019/pull/40) |
+
+<br/>
+
