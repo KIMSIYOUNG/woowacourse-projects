@@ -50,8 +50,8 @@
 
 |     Project      |           Repository          |             Pull Request                   |              학습 내용 정리                    |
 | :--------------: | :---------------------------: | :----------------------------------------: |  :----------------------------------------: | 
-|     체스 / step1     | [jwp-chess/step1](https://github.com/KIMSIYOUNG/jwp-chess/tree/feature/jwp_chess) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/54) | [학습한 내용 및 어려웠던 점](https://github.com/KIMSIYOUNG/java-calculator/blob/onboarding/README.md) |
-|     체스 / step2     | [jwp-chess/step2](https://github.com/KIMSIYOUNG/jwp-chess/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/121) | [학습한 내용 및 어려웠던 점](https://github.com/KIMSIYOUNG/java-calculator/blob/onboarding/README.md) |
+|     체스 / step1     | [jwp-chess/step1](https://github.com/KIMSIYOUNG/jwp-chess/tree/feature/jwp_chess) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/54) | [체스 1단계 - 예외처리 학습](https://github.com/KIMSIYOUNG/jwp-chess/blob/feature/jwp_chess/README.md) |
+|     체스 / step2     | [jwp-chess/step2](https://github.com/KIMSIYOUNG/jwp-chess/tree/feature/jwp_web) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/96) | [학습한 내용 및 어려웠던 점](https://github.com/KIMSIYOUNG/jwp-chess/blob/feature/jwp_web/README.md) |
 |     체스 / step3     | [jwp-chess/step3](https://github.com/KIMSIYOUNG/jwp-chess/tree/chess_step3) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/126) | [학습한 내용 및 어려웠던 점](https://github.com/KIMSIYOUNG/java-calculator/blob/onboarding/README.md) |
 |     체스 / step4     | [jwp-chess/step4](https://github.com/KIMSIYOUNG/jwp-chess/tree/chess_step4) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/193) | [학습한 내용 및 어려웠던 점](https://github.com/KIMSIYOUNG/java-calculator/blob/onboarding/README.md) |
 |   지하철 정보 관리   | [atdd-subway-admin](https://github.com/KIMSIYOUNG/atdd-subway-admin/tree/step1) | [Pull Request](https://github.com/woowacourse/atdd-subway-admin/pull/22) | [학습한 내용 및 어려웠던 점](https://github.com/KIMSIYOUNG/java-calculator/blob/onboarding/README.md) |
