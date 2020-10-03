@@ -33,7 +33,7 @@
 
 <br/>
 
-## 🐣 Level 2 : 웹 프로그래밍과 미니 팀 프로젝트
+## 🐣 Level 2 : 웹 프로그래밍
 
 ### 기간
 
@@ -54,12 +54,12 @@
 |     체스 / step2     | [jwp-chess/step2](https://github.com/KIMSIYOUNG/jwp-chess/tree/feature/jwp_web) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/96) | [체스 2단계 - Spring Annotation 학습 내용보기](https://github.com/KIMSIYOUNG/jwp-chess/blob/feature/jwp_web/README.md) |
 |     체스 / step3     | [jwp-chess/step3](https://github.com/KIMSIYOUNG/jwp-chess/tree/chess_step3) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/126) | [체스 3단계 - Spring Data Jdbc 학습 내용보기](https://github.com/KIMSIYOUNG/jwp-chess/blob/chess_step3/README.md) |
 |     체스 / step4     | [jwp-chess/step4](https://github.com/KIMSIYOUNG/jwp-chess/tree/chess_step4) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/193) | [체스 4단계 - 학습 내용](https://github.com/KIMSIYOUNG/jwp-chess/tree/chess_step4) |
-|   지하철 정보 관리   | [atdd-subway-admin](https://github.com/KIMSIYOUNG/atdd-subway-admin/tree/step1) | [Pull Request](https://github.com/woowacourse/atdd-subway-admin/pull/22) | [학습한 내용 및 어려웠던 점](https://github.com/KIMSIYOUNG/java-calculator/blob/onboarding/README.md) |
-|   지하철 경로 조회   | [atdd-subway-path](https://github.com/KIMSIYOUNG/atdd-subway-path/tree/week2) | [Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/14) | [학습한 내용 및 어려웠던 점](https://github.com/KIMSIYOUNG/java-calculator/blob/onboarding/README.md) |
-| 지하철 경로 즐겨찾기 | [atdd-subway-favorite](https://github.com/KIMSIYOUNG/atdd-subway-favorite/tree/step1) | [Pull Request](https://github.com/woowacourse/atdd-subway-favorite/pull/8) | [학습한 내용 및 어려웠던 점](https://github.com/KIMSIYOUNG/java-calculator/blob/onboarding/README.md) |
-|  지하철 Admin CRUD   | [atdd-subway-admin-frontend](https://github.com/KIMSIYOUNG/atdd-subway-admin-frontend/tree/kyle) | [Pull Request](https://github.com/woowacourse/atdd-subway-admin-frontend/pull/25) | [학습한 내용 및 어려웠던 점](https://github.com/KIMSIYOUNG/java-calculator/blob/onboarding/README.md) |
-|    사용자 이야기     | [woowa-userstory-2020](https://github.com/KIMSIYOUNG/woowa-userstory-2020/tree/docs/kyle) | [Pull Request](https://github.com/woowacourse/woowa-userstory-2020/pull/5) | [학습한 내용 및 어려웠던 점](https://github.com/KIMSIYOUNG/java-calculator/blob/onboarding/README.md) |
-|      Todo List       |        [todolist](https://github.com/KIMSIYOUNG/todolist/tree/feat/state/kyle)        |                       [Pull Request](https://github.com/woowacourse/todolist/pull/8)                        | [학습한 내용 및 어려웠던 점](https://github.com/KIMSIYOUNG/java-calculator/blob/onboarding/README.md) |
+|   지하철 정보 관리   | [atdd-subway-admin](https://github.com/KIMSIYOUNG/atdd-subway-admin/tree/step1) | [Pull Request](https://github.com/woowacourse/atdd-subway-admin/pull/22) | [지하철 1단계 - 학습 내용(개발구조)](https://github.com/KIMSIYOUNG/atdd-subway-admin/blob/step1/README.md) |
+|   지하철 경로 조회   | [atdd-subway-path](https://github.com/KIMSIYOUNG/atdd-subway-path/tree/week2) | [Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/14) | [지하철 2단계 - 학습 내용(외부API)](https://github.com/KIMSIYOUNG/java-calculator/blob/onboarding/README.md) |
+| 지하철 경로 즐겨찾기 | [atdd-subway-favorite](https://github.com/KIMSIYOUNG/atdd-subway-favorite/tree/step1) | [Pull Request](https://github.com/woowacourse/atdd-subway-favorite/pull/8) | [지하철 3단계 학습 내용(스프링 MVC)](https://github.com/KIMSIYOUNG/atdd-subway-favorite/tree/step1) |
+|  지하철 Admin CRUD   | [atdd-subway-admin-frontend](https://github.com/KIMSIYOUNG/atdd-subway-admin-frontend/tree/kyle) | [Pull Request](https://github.com/woowacourse/atdd-subway-admin-frontend/pull/25) | FE 일부분 수정 |
+|    사용자 이야기     | [woowa-userstory-2020](https://github.com/KIMSIYOUNG/woowa-userstory-2020/tree/docs/kyle) | [Pull Request](https://github.com/woowacourse/woowa-userstory-2020/pull/5) | 아이디어 일부분 수정|
+|      Todo List       |        [todolist](https://github.com/KIMSIYOUNG/todolist/tree/feat/state/kyle)        |                       [Pull Request](https://github.com/woowacourse/todolist/pull/8)                        | FE(바닐라) 상태관리 |
 
 <br/>
 
@@ -110,7 +110,7 @@
 |   1   |      우아한테크코스 한 달 생활기       | [woowa-writing-2/level1](https://github.com/KIMSIYOUNG/woowa-writing-2) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/4) |
 |   2   | 우테코에서 찾은 나만의 효과적인 학습법 | [woowa-writing-2/level2](https://github.com/KIMSIYOUNG/woowa-writing-2/tree/writing-level2) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/62) |
 |   3   |    팀 프로젝트가 나에게 남긴것     |                      [woowa-writing-2/level3](https://github.com/KIMSIYOUNG/woowa-writing-2/tree/writing-level3)                      |                       [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/133)                        |
-|   4   |       2기 크루들에게 보내는 편지       |                       comming soon...                        |                       comming soon...                        |
+
 
 <br/>
 
