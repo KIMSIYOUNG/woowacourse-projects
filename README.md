@@ -1,6 +1,6 @@
 # 👨🏻‍💻 woowacourse-projects
 
->  [우아한테크코스](https://woowacourse.github.io/)에서 학습한 내용을 정리하는 Repository
+>  [우아한테크코스](https://woowacourse.github.io/)내에서 학습한 내용을 정리하는 Repository
 
 <br/>
 
@@ -137,34 +137,17 @@
 <br/>
 <br/>
 
-## 우아한테크코스 들어오기 전 ⏳ Level 0 : 프리코스
-
-### 기간
-
-- 2019.11.27 ~ 2019.12.17
+## 기타(프리코스 및 각종 시험)
 
 ### 진행 미션
 
 |     Project      |                          Repository                          |                         Pull Request                         |
 | :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  숫자 야구 게임  | [java-baseball-precourse](https://github.com/KIMSIYOUNG/java-baseball-precourse) | [Pull Request](https://github.com/woowacourse/java-baseball-precourse/pull/213) |
-| 자동차 경주 게임 | [java-racingcar-precourse](https://github.com/KIMSIYOUNG/java-racingcar-precourse) | [Pull Request](https://github.com/woowacourse/java-racingcar-precourse/pull/178) |
-|      블랙잭      | [java-blackjack-precourse](https://github.com/KIMSIYOUNG/java-blackjack-precourse) | [Pull Request](https://github.com/woowacourse/java-blackjack-precourse/pull/39) |
+|  프리코스 - 숫자 야구 게임  | [java-baseball-precourse](https://github.com/KIMSIYOUNG/java-baseball-precourse) | [Pull Request](https://github.com/woowacourse/java-baseball-precourse/pull/213) |
+| 프리코스 - 자동차 경주 게임 | [java-racingcar-precourse](https://github.com/KIMSIYOUNG/java-racingcar-precourse) | [Pull Request](https://github.com/woowacourse/java-racingcar-precourse/pull/178) |
+|      프리코스 - 블랙잭      | [java-blackjack-precourse](https://github.com/KIMSIYOUNG/java-blackjack-precourse) | [Pull Request](https://github.com/woowacourse/java-blackjack-precourse/pull/39) |
+| 오프라인 코딩테스트 - 치킨집  | [java-chicken-2019](https://github.com/KIMSIYOUNG/java-chicken-2019) | [Pull Request](https://github.com/woowacourse/java-chicken-2019/pull/40) |
+|      레벨 1 최종 테스트 - 치킨집 재구현     | [java-chicken-2020](https://github.com/KIMSIYOUNG/java-chicken-2020) | [Pull Request](https://github.com/woowacourse/java-chicken-2020/pull/29) |
+|      레벨 2 최종 테스트 - 지하철 추가 구현      | [attd-subway-2020](https://github.com/KIMSIYOUNG/atdd-subway-2020) | [Pull Request](https://github.com/woowacourse/atdd-subway-2020/pull/24) |
 
-<br/>
-<br/>
-
-## 우아한테크코스 최종 장벽 ⌛️ Level 0.5 : 오프라인 테스트
-
-### 기간
-
-- 2019.12.24
-
-### 진행 미션
-
-| Project |                          Repository                          |                         Pull Request                         |
-| :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 치킨집  | [java-chicken-2019](https://github.com/KIMSIYOUNG/java-chicken-2019) | [Pull Request](https://github.com/woowacourse/java-chicken-2019/pull/40) |
-
-<br/>
 
