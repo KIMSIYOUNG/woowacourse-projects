@@ -96,7 +96,17 @@
 
 ### 진행 미션
 
-- comming soon...
+|     Project      |           Repository          |             Pull Request                   |              학습 내용 정리                    |
+| :--------------: | :---------------------------: | :----------------------------------------: |  :----------------------------------------: | 
+|     WAS 만들기 / step1     | [jwp-chess/step1](https://github.com/KIMSIYOUNG/jwp-chess/tree/feature/jwp_chess) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/54) | [체스 1단계 - 예외처리 학습 내용보기](https://github.com/KIMSIYOUNG/jwp-chess/blob/feature/jwp_chess/README.md) |
+|     WAS 만들기 / step2     | [jwp-chess/step2](https://github.com/KIMSIYOUNG/jwp-chess/tree/feature/jwp_web) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/96) | [체스 2단계 - Spring Annotation 학습 내용보기](https://github.com/KIMSIYOUNG/jwp-chess/blob/feature/jwp_web/README.md) |
+|     WAS 만들기 / step3     | [jwp-chess/step3](https://github.com/KIMSIYOUNG/jwp-chess/tree/chess_step3) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/126) | [체스 3단계 - Spring Data Jdbc 학습 내용보기](https://github.com/KIMSIYOUNG/jwp-chess/blob/chess_step3/README.md) |
+|     WAS 만들기 / step4     | [jwp-chess/step4](https://github.com/KIMSIYOUNG/jwp-chess/tree/chess_step4) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/193) | [체스 4단계 - 학습 내용](https://github.com/KIMSIYOUNG/jwp-chess/tree/chess_step4) |
+|   Refactoring   | [atdd-subway-admin](https://github.com/KIMSIYOUNG/atdd-subway-admin/tree/step1) | [Pull Request](https://github.com/woowacourse/atdd-subway-admin/pull/22) | [지하철 1단계 - 학습 내용(개발구조)](https://github.com/KIMSIYOUNG/atdd-subway-admin/blob/step1/README.md) |
+|   Refactoring   | [atdd-subway-path](https://github.com/KIMSIYOUNG/atdd-subway-path/tree/week2) | [Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/14) | [지하철 2단계 - 학습 내용(외부API)](https://github.com/KIMSIYOUNG/java-calculator/blob/onboarding/README.md) |
+| Refactoring | [atdd-subway-favorite](https://github.com/KIMSIYOUNG/atdd-subway-favorite/tree/step1) | [Pull Request](https://github.com/woowacourse/atdd-subway-favorite/pull/8) | [지하철 3단계 학습 내용(스프링 MVC)](https://github.com/KIMSIYOUNG/atdd-subway-favorite/tree/step1) |
+|  Refactoring   | [atdd-subway-admin-frontend](https://github.com/KIMSIYOUNG/atdd-subway-admin-frontend/tree/kyle) | [Pull Request](https://github.com/woowacourse/atdd-subway-admin-frontend/pull/25) | FE 일부분 수정 |
+|    Refactoring     | [woowa-userstory-2020](https://github.com/KIMSIYOUNG/woowa-userstory-2020/tree/docs/kyle) | [Pull Request](https://github.com/woowacourse/woowa-userstory-2020/pull/5) | 아이디어 일부분 수정|
 
 <br/>
 
